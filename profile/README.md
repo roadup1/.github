@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./favicon.svg" alt="Logo do RoadUp" width="120"/>
+<img src="./assets/favicon.svg" alt="Logo do RoadUp" width="120"/>
 
 # RoadUp - Rotas Inteligentes
 
